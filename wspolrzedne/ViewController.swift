@@ -90,7 +90,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     func mapView(mapView: MKMapView!, didUpdateUserLocation userLocation: MKUserLocation!) {
         let fi = String(format: "%.5f",mapView.userLocation.coordinate.latitude)
         let lambda = String(format: "%.5f", mapView.userLocation.coordinate.longitude)
-        mapView.userLocation.title = "φ:\(fi) λ:\(lambda)"
+        mapView.userLocation.title = "φ:\(fi)° λ:\(lambda)°"
         
     }
     

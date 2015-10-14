@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2937D0DB-B458-4B38-9525-F57361E858F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>wspolrzedne</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>40B60D1E8F78FE9720DC554E6C4323103A9CF7EC</key>
+		<string>https://github.com/kasyrm/wspolrzedne.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>wspolrzedne.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>40B60D1E8F78FE9720DC554E6C4323103A9CF7EC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kasyrm/wspolrzedne.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>40B60D1E8F78FE9720DC554E6C4323103A9CF7EC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>40B60D1E8F78FE9720DC554E6C4323103A9CF7EC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>wspolrzedne</string>
+		</dict>
+	</array>
+</dict>
+</plist>
